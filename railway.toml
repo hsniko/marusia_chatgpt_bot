@@ -1,7 +1,0 @@
-[build]
-# Используется Nixpacks для автоматической сборки
-builder = "python"
-
-[env]
-OPENAI_API_KEY = "your-openai-api-key"
-TELEGRAM_TOKEN = "your-telegram-bot-token"
