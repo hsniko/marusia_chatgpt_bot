@@ -1,0 +1,7 @@
+[build]
+# Убираем явное указание builder, чтобы Railway сам определял подходящий сборщик
+# builder = "python"  # Уберите эту строку
+
+[env]
+OPENAI_API_KEY = "your-openai-api-key"
+TELEGRAM_TOKEN = "your-telegram-bot-token"
